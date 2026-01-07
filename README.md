@@ -4,7 +4,7 @@ I’m Asunari, a 22-year-old developer from Russia (🇷🇺) with strong intere
 Software Engineer, UI/UX Designer
 
 ## 💬 Socials
-- ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Salvatore](https://steamcommunity.com/id/asunarii/)
+- ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Asunari](https://steamcommunity.com/id/asunarii/)
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __YouTube__ - [Asunari](https://www.youtube.com/asunarii)
 
 ## 🔮 Projects
